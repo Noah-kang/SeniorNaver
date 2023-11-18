@@ -16,13 +16,13 @@
 <div>
   <h2>프로젝트 소개</h2>
 </div>
-시니어가 디지털 시대에 쉽게 적응할 수 있도록 맞춤형 정보제공 웹 서비스스
+시니어가 디지털 시대에 쉽게 적응할 수 있도록 맞춤형 정보제공 웹 서비스
 
 <br />
 
 ## 배포 링크
 
-### [https://ggok2.duckdns.org](http://haru-hannyan.com)
+### [https://ggok2.duckdns.org](https://ggok2.duckdns.org)
 
 <br /><br />
 
@@ -283,8 +283,8 @@
 | 이름 | 강노아                                                                                              | 권민우                                                                                              | 김민석                                                                                              |
 | :--: | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
 |      | <img src="https://gudgement.s3.ap-northeast-2.amazonaws.com/readme/kkogkkogGames.png" width="150"/> | <img src="https://gudgement.s3.ap-northeast-2.amazonaws.com/readme/kkogkkogGames.png" width="150"/> | <img src="https://gudgement.s3.ap-northeast-2.amazonaws.com/readme/kkogkkogGames.png" width="150"/> |
-| 역할 | INFRA, BACK-END                                                                                     | 팀장, BACK-END                                                                                      | BACK-END                                                                                            |
-| 담당 | ∙ 서버 구축 <br> ∙ 계좌 <br> ∙ 랭킹 시스템                                                          | ∙ 초기 환경 구축 <br> ∙ 회원관리 <br> ∙ 푸시알림 <br> ∙ 소비 내역 분석                              | ∙ 게임 <br> ∙ 매칭 시스템 <br> ∙ 커스터마이징                                                       |
+| 역할 | INFRA, BACK-END                                                                                     |  INFRA,BACK-END                                                                                      | BACK-END                                                                                            |
+| 담당 | ∙ 서버 구축 <br> ∙ 계좌 <br> ∙ 랭킹 시스템                                                          | ∙ 장소 검색 <br> ∙ 일자리 검색 <br> ∙ 유행어 사전 <br> ∙ 백엔드 서버 배포                              | ∙ 게임 <br> ∙ 매칭 시스템 <br> ∙ 커스터마이징                                                       |
 
 <br />
 
