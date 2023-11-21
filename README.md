@@ -284,13 +284,19 @@
 | :--: | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
 |      | <img src="https://gudgement.s3.ap-northeast-2.amazonaws.com/readme/kkogkkogGames.png" width="150"/> | <img src="https://gudgement.s3.ap-northeast-2.amazonaws.com/readme/kkogkkogGames.png" width="150"/> | <img src="https://gudgement.s3.ap-northeast-2.amazonaws.com/readme/kkogkkogGames.png" width="150"/> |
 | 역할 | INFRA, BACK-END                                                                                     |  INFRA,BACK-END                                                                                      | BACK-END                                                                                            |
-| 담당 | ∙ 서버 구축 <br> ∙ 계좌 <br> ∙ 랭킹 시스템                                                          | ∙ 장소 검색 <br> ∙ 일자리 검색 <br> ∙ 유행어 사전 <br> ∙ 백엔드 서버 배포                              | ∙ 게임 <br> ∙ 매칭 시스템 <br> ∙ 커스터마이징                                                       |
+| 담당 | ∙ 서버 구축 <br> ∙ 계좌 <br> ∙ 랭킹 시스템                                                          | ∙ 장소 검색 <br> ∙ 일자리 검색 <br> ∙ 유행어 사전 <br> ∙ 백엔드 서버 배포                              | ∙ 회원관리 <br> ∙ 마이페이지 <br> ∙ 음성인식 AI 챗봇                                                       |
 
 <br />
 
 ## ERD
 
-<img src="https://gudgement.s3.ap-northeast-2.amazonaws.com/readme/erd.jpg" width="1500"/>
+<img src="https://seniornaver.s3.ap-northeast-2.amazonaws.com/readme/d105_erd+(1).jpg" width="1500"/>
+
+<br>
+
+## 아키텍쳐
+
+<img src="https://seniornaver.s3.ap-northeast-2.amazonaws.com/readme/%EC%A0%9C%EB%AA%A9+%EC%97%86%EC%9D%8C2.png" width="1500"/>
 
 <br>
 
