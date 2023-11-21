@@ -294,11 +294,6 @@
 
 <br>
 
-## 아키텍쳐
-
-<img src="https://seniornaver.s3.ap-northeast-2.amazonaws.com/readme/%EC%A0%9C%EB%AA%A9+%EC%97%86%EC%9D%8C2.png" width="1500"/>
-
-<br>
 
 ## 시니어 네이버, 어떻게 만들었나요?
 
